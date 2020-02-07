@@ -46,7 +46,7 @@
 		</div>
 
 		<input type="submit">
-	</form>
+	
 
 </body>
 
