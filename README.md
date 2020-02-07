@@ -1,5 +1,4 @@
 # Character-Analysis
-<!DOCTYPE html>
 <html>
 
 <head>
